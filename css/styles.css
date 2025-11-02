@@ -59,7 +59,7 @@ text-align: left;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    background-image: url('images/bg.jpg');
+    background-image: url('../images/bg.jpg');
 background-position: center;
 } 
 .hero button:hover,button:focus {
