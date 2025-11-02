@@ -62,6 +62,7 @@ text-align: left;
      background-image: url('../images/bg.jpg');
 background-position: center;
 } 
+
 .hero button:hover,button:focus {
   background-color: #012d22;
 }
